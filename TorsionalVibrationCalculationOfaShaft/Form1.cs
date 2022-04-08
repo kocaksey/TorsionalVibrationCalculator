@@ -218,6 +218,7 @@ namespace TorsionalVibrationCalculationOfaShaft
             {
                 e.Handled = true;
             }
+            //skocak
         }
     }
 }
